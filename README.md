@@ -25,7 +25,7 @@
 - Python 3.8 or higher
 - Azure OpenAI API credentials
 - Active Azure OpenAI deployment
-- UV package manager (recommended)
+- UV package manager (recommended) (refer: https://docs.astral.sh/uv/getting-started/installation/)
 
 ### Setup
 
