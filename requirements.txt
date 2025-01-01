@@ -1,0 +1,10 @@
+langchain
+openai
+Pillow
+python-dotenv
+openai
+langchain-community 
+langchain-openai
+langchain-core
+streamlit
+pillow
